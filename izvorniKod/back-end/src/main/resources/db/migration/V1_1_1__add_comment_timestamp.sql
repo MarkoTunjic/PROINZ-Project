@@ -1,0 +1,1 @@
+ALTER TABLE comments ADD COLUMN posted_at TIMESTAMP;

@@ -1,0 +1,43 @@
+1. sastanak
+• Datum: 4. listopada 2021.
+• Prisustvovali: K.Frankola, B.Colarić, D.Dugonjevac, T.Serezlija, M.Tunjić
+• Teme sastanka:
+	– Medusobno upoznavanje i predstavljanje
+	– Rasprava o projektu i zajedniˇckim aktivnostima (u grubo)
+	– Prijava na stranicu raspodjele grupa
+
+2. sastanak
+• Datum: 11. listopada 2021.
+• Prisustvovali: K.Frankola, J.Brkić, B.Colarić, D.Dugonjevac, P.Gavran, T.Serezlija, M.Tunjić
+• Teme sastanka:
+	– Upoznavanje novih članova
+	– Ponovna rasprava o odabranim tehnologijama
+	– Podjela aktivnosti po članovima
+
+3. sastanak
+• Datum: 27. listopada 2021.
+• Prisustvovali: K.Frankola, J.Brkić, B.Colarić, D.Dugonjevac, P.Gavran, T.Serezlija, M.Tunjić
+• Teme sastanka:
+	– Daljnja podjela aktivnosti (dokumentacija i programiranje)
+	– Razmatranje arhitekture i ponašanja sustava
+
+4. sastanak
+• Datum: 6. studenoga 2021.
+• Prisustvovali: K.Frankola, J.Brkić, B.Colarić, D.Dugonjevac, P.Gavran, T.Serezlija, M.Tunjić
+• Teme sastanka:
+	– Osnovni dijagram baze
+	– Osnovni dijagram ponaˇsanja sustava
+	– Aktivnosti koje je potrebno napraviti do predaje
+	
+5. sastanak
+• Datum: 9. prosinca 2021.
+• Prisustvovali: K.Frankola, J.Brkić, B.Colarić, D.Dugonjevac, P.Gavran, T.Serezlija, M.Tunjić
+• Teme sastanka:
+	– Podjela aktivnosti za alfa verziju
+	
+6. sastanak
+• Datum: 10. siječnja 2022.
+• Prisustvovali: K.Frankola, J.Brkić, B.Colarić, D.Dugonjevac, P.Gavran, T.Serezlija, M.Tunjić
+• Teme sastanka:
+	– Finalni dogovori oko podjele zadataka
+	- Završavanje implementacije i nedostatci

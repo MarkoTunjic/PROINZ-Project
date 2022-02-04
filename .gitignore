@@ -1,0 +1,16 @@
+# unneeded files for documentation
+dokumentacija/*.aux
+dokumentacija/*.lof
+dokumentacija/*.log
+dokumentacija/*.lot
+dokumentacija/*.out
+dokumentacija/*.pdf
+dokumentacija/*.synctex.gz
+dokumentacija/*.toc
+dokumentacija/*.fls
+
+# no IntellIJ config
+.idea/*
+
+#vscode
+.vscode/
